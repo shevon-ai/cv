@@ -17,7 +17,7 @@ h1{
   color: #D0C9C0;
 }
 .box1 {
-  width: 280px;
+  width: 240px;
   padding: 5px;
   border: 2px;
   border-radius: 15px;
@@ -57,4 +57,11 @@ p strong{
   background-color: #BDE6F1;
   padding: 6px;
   border-radius: 5px;
+}
+.qte{
+  font-family: "Georgia", serif;
+  color: #5F7161;
+  font-weight: bold;
+  font-style: italic;
+
 }
